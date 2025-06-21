@@ -87,6 +87,8 @@ Performance Benchmarking: Enables year-over-year comparison of patient satisfact
 Screenshots
 ![Monthly Dashboard View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_1.png)
 ![Patient Details View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_3.png)
+![Consolidated View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_2.png)
+
 
 
 
