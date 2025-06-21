@@ -1,4 +1,6 @@
  Project Title / Headline
+
+ 
 Healthcare Service Analytics: Emergency Room Performance Dashboard
 An interactive Power BI dashboard built to uncover real-time and historical trends in emergency room patient flow, demographics, and departmental load—empowering hospital leaders with actionable healthcare intelligence.
 
@@ -84,6 +86,8 @@ Performance Benchmarking: Enables year-over-year comparison of patient satisfact
 
 Screenshots
 ![Monthly Dashboard View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_1.png)
+![Patient Details View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_3.png)
+
 
 
 
