@@ -82,6 +82,11 @@ Patient Equity: Identifies if particular demographics experience longer wait tim
 
 Performance Benchmarking: Enables year-over-year comparison of patient satisfaction and throughput.
 
+Screenshots
+![Monthly Dashboard View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_1.png)
+
+
+
 👤 Created By
 Raghav Latawa
 Power BI Developer | Healthcare Data Enthusiast
