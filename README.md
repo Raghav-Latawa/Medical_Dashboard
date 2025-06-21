@@ -89,6 +89,8 @@ Screenshots
 ![Patient Details View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_3.png)
 ![Consolidated View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_2.png)
 ![Key Takeaways](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_4.png)
+![Additional Insight View](https://raw.githubusercontent.com/Raghav-Latawa/Medical_Dashboard/main/Medical_SS_5.png)
+
 
 
 
